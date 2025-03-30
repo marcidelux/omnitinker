@@ -6,7 +6,7 @@ order: 3
 
 <div id="pdf-viewer"></div>
 
-<script src="/assets/lib/pdfjs/build/pdf.js"></script>
+<script src="/assets/libraries/pdfjs/build/pdf.js"></script>
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const url = '/assets/files/cv.pdf';
