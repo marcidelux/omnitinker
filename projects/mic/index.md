@@ -52,10 +52,10 @@ style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
 <div style="text-align: center;">
   <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DB7PS-mo4Rj/" data-instgrm-version="14"></blockquote>
 </div>
-<script async src="//www.instagram.com/embed.js"></script>
+<script async src="https://www.instagram.com/embed.js"></script>
 
 ### Parties
 <div style="text-align: center;">
   <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DGqpyKNC8Sb/" data-instgrm-version="14"></blockquote>
 </div>
-<script async src="//www.instagram.com/embed.js"></script>
+<script async src="https://www.instagram.com/embed.js"></script>
