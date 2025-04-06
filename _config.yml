@@ -13,7 +13,7 @@ lang: en
 timezone: Europe/Budapest
 
 
-tagline: Jack of al trades master of none, but better than master of one.
+tagline: Jack-of-all-trades master of none, but better than master of one.
 
 description: >- # used by seo meta and the atom feed
   Small webpage about my projects and thoughts.
@@ -35,7 +35,6 @@ social:
     - https://github.com/marcidelux
     - https://www.linkedin.com/in/márton-lőrinczi-0156a1149
     - https://www.instagram.com/martonstronghold
-
 
 # Site Verification Settings
 webmaster_verifications:
